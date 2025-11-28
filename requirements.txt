@@ -1,0 +1,8 @@
+streamlit
+medigan
+torch
+torchvision
+numpy
+Pillow
+requests
+tqdm
